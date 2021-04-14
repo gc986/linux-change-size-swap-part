@@ -25,3 +25,6 @@
 Проверяем что файл подкачки есть в системе, радуемся
 
 <i><b>swapon --show</i></b>
+
+
+Оригинал на ENG - https://linuxhandbook.com/increase-swap-ubuntu/
